@@ -1,0 +1,10 @@
+"E:\CLion\CLion 2022.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/CLion/CLion 2022.3/bin/ninja/win/ninja.exe" -G Ninja -S "E:\CLion\CLion 2022.3\sdl2\controlfps" -B "E:\CLion\CLion 2022.3\sdl2\controlfps\cmake-build-debug"
+-- The C compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: E:/CLion/CLion 2022.3/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/CLion/CLion 2022.3/sdl2/controlfps/cmake-build-debug
