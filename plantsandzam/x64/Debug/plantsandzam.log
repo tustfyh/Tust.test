@@ -1,0 +1,12 @@
+﻿  resource.cpp
+D:\vs2022\plantsandzam\plantsandzam\resource.cpp(67,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vs2022\plantsandzam\plantsandzam\resource.cpp(70,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\vs2022\plantsandzam\plantsandzam\resource.cpp(69,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\vs2022\plantsandzam\plantsandzam\resource.cpp(25,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2022\plantsandzam\plantsandzam\resource.cpp(45,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2022\plantsandzam\plantsandzam\resource.cpp(323,22): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+D:\vs2022\plantsandzam\plantsandzam\resource.cpp(324,22): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+D:\vs2022\plantsandzam\plantsandzam\resource.cpp(354,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vs2022\plantsandzam\plantsandzam\resource.cpp(355,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vs2022\plantsandzam\plantsandzam\resource.cpp(356,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  plantsandzam.vcxproj -> D:\vs2022\plantsandzam\x64\Debug\plantsandzam.exe
